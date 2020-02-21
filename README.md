@@ -5,3 +5,4 @@
 - Leonardo DiCaprio
 - Jack Nicholson
 - Benedict Cumberbatch
+- Jamie Foxx
